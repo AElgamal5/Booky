@@ -1,6 +1,6 @@
 # Booky
 
-## Simple CURD App to make book list
+## Simple CURD App to make book list using vanilla JavaScript
 
 Used :
 
