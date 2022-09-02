@@ -159,6 +159,7 @@ class UI {
         );
         this.clearFilds();
       }
+      UI.showAlert("Book changed", "success");
       btn.innerHTML = "ADD";
     };
   }
